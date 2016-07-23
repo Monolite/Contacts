@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contact_edit">ContactEditActivity</string>
+    <string name="name_hint">Nombre</string>
+    <string name="mail_hint">E-mail</string>
+    <string name="twitter_hint">Twitter</string>
+    <string name="save_text">Guardar</string>
+</resources>
